@@ -3,6 +3,7 @@ package com.example.git.model;
 public class User {
     private int id;
     private String userName;
+    private String email;
     private String password;
 
     public int getId() {
